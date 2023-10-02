@@ -1,4 +1,4 @@
-import express, {Express} from 'express'
+import express, { Express } from 'express'
 import dotenv from 'dotenv'
 import routes from './routes/index.js'
 dotenv.config()
